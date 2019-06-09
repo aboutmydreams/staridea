@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/res/merged/release/drawable/ic_done_white_24dp.xml",
+        "source": "/Users/dwh/Desktop/coding/flutter/.pub-cache/hosted/pub.flutter-io.cn/local_auth-0.4.0+1/android/src/main/res/drawable/ic_done_white_24dp.xml"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/res/merged/release/drawable/fingerprint_initial_icon.xml",
+        "source": "/Users/dwh/Desktop/coding/flutter/.pub-cache/hosted/pub.flutter-io.cn/local_auth-0.4.0+1/android/src/main/res/drawable/fingerprint_initial_icon.xml"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/res/merged/release/drawable/fingerprint_warning_icon.xml",
+        "source": "/Users/dwh/Desktop/coding/flutter/.pub-cache/hosted/pub.flutter-io.cn/local_auth-0.4.0+1/android/src/main/res/drawable/fingerprint_warning_icon.xml"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/res/merged/release/drawable/ic_fingerprint_white_24dp.xml",
+        "source": "/Users/dwh/Desktop/coding/flutter/.pub-cache/hosted/pub.flutter-io.cn/local_auth-0.4.0+1/android/src/main/res/drawable/ic_fingerprint_white_24dp.xml"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/res/merged/release/drawable/ic_priority_high_white_24dp.xml",
+        "source": "/Users/dwh/Desktop/coding/flutter/.pub-cache/hosted/pub.flutter-io.cn/local_auth-0.4.0+1/android/src/main/res/drawable/ic_priority_high_white_24dp.xml"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/res/merged/release/drawable/fingerprint_success_icon.xml",
+        "source": "/Users/dwh/Desktop/coding/flutter/.pub-cache/hosted/pub.flutter-io.cn/local_auth-0.4.0+1/android/src/main/res/drawable/fingerprint_success_icon.xml"
+    }
+]
