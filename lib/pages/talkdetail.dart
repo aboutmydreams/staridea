@@ -71,7 +71,7 @@ class DetailShow extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text('话题详情'),
+        title: Text('idea 详情'),
         actions: <Widget>[
           new PopupMenuButton(
             // padding: EdgeInsets.only(bottom: 15),
@@ -153,6 +153,7 @@ class DetailState extends State<Detail> {
         body: Center(
           child: Column(
             children: <Widget>[
+              SizedBox(height: 16),
               Container(
                 child: Text(
                   topic.title,
@@ -164,23 +165,16 @@ class DetailState extends State<Detail> {
               ),
               Container(
                 alignment: Alignment.topCenter,
-                padding: EdgeInsets.all(12),
+                padding: EdgeInsets.all(26),
                 child: Text(
                   topic.content,
-                  style: TextStyle(fontSize: 20),
+                  style: TextStyle(fontSize: 20, color: Colors.black54),
                 ),
                 decoration: BoxDecoration(
                   color: Colors.white,
                   borderRadius: new BorderRadius.all(
                     const Radius.circular(8.0),
                   ),
-                  boxShadow: <BoxShadow>[
-                    BoxShadow(
-                      offset: new Offset(0.0, 3.0),
-                      blurRadius: 6.0,
-                      color: const Color(0x80000000),
-                    ),
-                  ],
                 ),
               ),
             ],

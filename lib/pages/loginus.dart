@@ -131,7 +131,22 @@ class _LoginPageState extends State<LoginPage> {
                       "忘记密码",
                       style: TextStyle(color: Colors.blue),
                     ),
-                    onPressed: () {},
+                    onPressed: () {
+                      return AlertDialog(
+                        title: Text("喵喵喵 身份错误"),
+                        content: Text("刚刚才注册的app 再想想看？"),
+                        actions: <Widget>[
+                          //对话���里面的两个按钮
+
+                          FlatButton(
+                            onPressed: () {
+                              Navigator.of(context).pop();
+                            },
+                            child: Text("确定"),
+                          ),
+                        ],
+                      );
+                    },
                   ),
                 ),
                 Text(
@@ -211,7 +226,7 @@ class _LoginPageState extends State<LoginPage> {
                               builder: (_) {
                                 return AlertDialog(
                                   title: Text("喵喵喵 身份错误"),
-                                  content: Text("用户名��可以是当年注册us的邮箱，\n试试看？"),
+                                  content: Text("刚刚才注册的app 再想想看？"),
                                   actions: <Widget>[
                                     //对话���里面的两个按钮
 

@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
-        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/layout-v21/notification_action_tombstone.xml"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/local_auth/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
         "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/layout-v21/notification_template_icon_group.xml"
     },
     {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/local_auth/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/local_auth/intermediates/res/merged/release/layout-v21/notification_action.xml",
         "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/layout-v21/notification_action.xml"
     },
     {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/local_auth/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
         "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/layout-v21/notification_template_custom_big.xml"
     }
 ]

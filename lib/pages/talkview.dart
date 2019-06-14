@@ -93,7 +93,8 @@ class TopiclistState extends State<Topiclist> {
   }
 
   Widget _buildColumn(Data idea) {
-    var cardColor = Colors.white;
+    Color _cardColor = Colors.white;
+    int _num = 1;
     return Column(
       children: <Widget>[
         GestureDetector(
@@ -103,24 +104,27 @@ class TopiclistState extends State<Topiclist> {
             }));
           },
           onDoubleTap: () {
+            setState(() {
+              _cardColor = _num % 2 == 0 ? Colors.yellow : Colors.white;
+              _num = _num + 1;
+              print(_num);
+            });
+
             Fluttertoast.showToast(
               msg: "star shine",
               toastLength: Toast.LENGTH_SHORT,
               gravity: ToastGravity.BOTTOM,
               timeInSecForIos: 2,
-              backgroundColor: Colors.white70,
+              backgroundColor: Colors.yellow,
               textColor: Colors.grey[800],
             );
-            setState(() {
-              cardColor = Colors.yellow;
-            });
           },
           child: Container(
             margin: EdgeInsets.only(left: 20, top: 15, right: 15),
             padding: EdgeInsets.only(left: 20, top: 15, right: 15, bottom: 15),
             height: 100,
             decoration: BoxDecoration(
-              color: cardColor,
+              color: _cardColor,
               borderRadius: new BorderRadius.all(
                 const Radius.circular(8.0),
               ),
@@ -175,6 +179,7 @@ class TopiclistState extends State<Topiclist> {
     SharedPreferences prefs = await SharedPreferences.getInstance();
     String getToken(String key) => prefs.getString(key);
     String token = getToken("token");
+    // print(token);
     Options options = Options(headers: {"authorization": token});
 
     try {

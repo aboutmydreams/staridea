@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/res/merged/release/values/values.xml",
+            "outputFile": "/Users/dwh/Desktop/coding/staridea/build/local_auth/intermediates/res/merged/release/values/values.xml",
             "map": [
                 {
                     "source": "/Users/dwh/Desktop/coding/flutter/.pub-cache/hosted/pub.flutter-io.cn/local_auth-0.4.0+1/android/src/main/res/values/dimens.xml",
@@ -78,7 +78,7 @@
             ]
         },
         {
-            "outputFile": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/dwh/Desktop/coding/staridea/build/local_auth/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/dwh/Desktop/coding/flutter/.pub-cache/hosted/pub.flutter-io.cn/local_auth-0.4.0+1/android/src/main/res/values/dimens.xml",

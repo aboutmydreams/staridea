@@ -45,11 +45,11 @@ class MyApp extends StatelessWidget {
         '/collection': (context) =>
             WebWithToken("stars", "https://idea.exql.top/collection"),
         '/following': (context) =>
-            WebWithNoToken("我关注了", "https://idea.exql.top/following/"),
+            WebWithToken("我关注了", "https://idea.exql.top/following/"),
         '/follower': (context) =>
-            WebWithNoToken("关注者", "https://idea.exql.top/follower/"),
+            WebWithToken("关注者", "https://idea.exql.top/follower/"),
         '/register': (context) =>
-            WebWithNoToken("注册", "https://idea.exql.top/register/"),
+            WebWithToken("注册", "https://idea.exql.top/register/"),
       },
       theme: ThemeData(
         primarySwatch: Colors.blue,

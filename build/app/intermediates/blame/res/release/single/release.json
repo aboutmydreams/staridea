@@ -1,270 +1,270 @@
 [
     {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable-ldpi-v4_ic_fingerprint_white_24dp.png.flat",
-        "source": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/packaged_res/release/drawable-ldpi-v4/ic_fingerprint_white_24dp.png"
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/dwh/Desktop/coding/staridea/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable-anydpi-v21_ic_fingerprint_white_24dp.xml.flat",
-        "source": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/packaged_res/release/drawable-anydpi-v21/ic_fingerprint_white_24dp.xml"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable_notification_bg_low.xml.flat",
-        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable/notification_bg_low.xml"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/layout-v16_notification_template_custom_big.xml.flat",
-        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/layout-v16/notification_template_custom_big.xml"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/mipmap-mdpi_logo.png.flat",
-        "source": "/Users/dwh/Desktop/coding/doorapp/doorapp/android/app/src/main/res/mipmap-mdpi/logo.png"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable_fingerprint_warning_icon.xml.flat",
-        "source": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/packaged_res/release/drawable/fingerprint_warning_icon.xml"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable-mdpi-v4_ic_fingerprint_white_24dp.png.flat",
-        "source": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/packaged_res/release/drawable-mdpi-v4/ic_fingerprint_white_24dp.png"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/layout_notification_template_part_time.xml.flat",
-        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/layout/notification_template_part_time.xml"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable-xxxhdpi-v4_ic_fingerprint_white_24dp.png.flat",
-        "source": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/packaged_res/release/drawable-xxxhdpi-v4/ic_fingerprint_white_24dp.png"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/layout_notification_action_tombstone.xml.flat",
-        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/layout/notification_action_tombstone.xml"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable-xxhdpi-v4_ic_fingerprint_white_24dp.png.flat",
-        "source": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/packaged_res/release/drawable-xxhdpi-v4/ic_fingerprint_white_24dp.png"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable_notification_tile_bg.xml.flat",
-        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable/notification_tile_bg.xml"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/layout_notification_action.xml.flat",
-        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/layout/notification_action.xml"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable-mdpi-v4/notification_bg_normal.9.png"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable-xxhdpi-v4_ic_priority_high_white_24dp.png.flat",
-        "source": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/packaged_res/release/drawable-xxhdpi-v4/ic_priority_high_white_24dp.png"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable-v21_notification_action_background.xml.flat",
-        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable-v21/notification_action_background.xml"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_ic_fingerprint_white_24dp.png.flat",
-        "source": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/packaged_res/release/drawable-xhdpi-v4/ic_fingerprint_white_24dp.png"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_ic_priority_high_white_24dp.png.flat",
-        "source": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/packaged_res/release/drawable-xhdpi-v4/ic_priority_high_white_24dp.png"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/layout-v21_notification_action.xml.flat",
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/layout-v21_notification_action.xml.flat",
         "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/layout-v21/notification_action.xml"
     },
     {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable-mdpi-v4_ic_priority_high_white_24dp.png.flat",
-        "source": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/packaged_res/release/drawable-mdpi-v4/ic_priority_high_white_24dp.png"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable_fingerprint_success_icon.xml.flat",
-        "source": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/packaged_res/release/drawable/fingerprint_success_icon.xml"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/layout-v21_notification_template_icon_group.xml.flat",
-        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/layout-v21/notification_template_icon_group.xml"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable_notification_bg.xml.flat",
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable_notification_bg.xml.flat",
         "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable/notification_bg.xml"
     },
     {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/layout_notification_template_part_chronometer.xml.flat",
-        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/layout/notification_template_part_chronometer.xml"
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable-anydpi-v21_ic_fingerprint_white_24dp.xml.flat",
+        "source": "/Users/dwh/Desktop/coding/staridea/build/local_auth/intermediates/packaged_res/release/drawable-anydpi-v21/ic_fingerprint_white_24dp.xml"
     },
     {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable-mdpi-v4_ic_done_white_24dp.png.flat",
-        "source": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/packaged_res/release/drawable-mdpi-v4/ic_done_white_24dp.png"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable-anydpi-v21_ic_priority_high_white_24dp.xml.flat",
-        "source": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/packaged_res/release/drawable-anydpi-v21/ic_priority_high_white_24dp.xml"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/mipmap-hdpi_logo.png.flat",
-        "source": "/Users/dwh/Desktop/coding/doorapp/doorapp/android/app/src/main/res/mipmap-hdpi/logo.png"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/layout-v21_notification_template_custom_big.xml.flat",
-        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/layout-v21/notification_template_custom_big.xml"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable-xxhdpi-v4_ic_done_white_24dp.png.flat",
-        "source": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/packaged_res/release/drawable-xxhdpi-v4/ic_done_white_24dp.png"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/layout-v21_notification_action_tombstone.xml.flat",
-        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/layout-v21/notification_action_tombstone.xml"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/layout_scan_fp.xml.flat",
-        "source": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/packaged_res/release/layout/scan_fp.xml"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/Users/dwh/Desktop/coding/doorapp/doorapp/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/layout_custom_dialog.xml.flat",
-        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/layout/custom_dialog.xml"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable-xxxhdpi-v4_ic_done_white_24dp.png.flat",
-        "source": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/packaged_res/release/drawable-xxxhdpi-v4/ic_done_white_24dp.png"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable-hdpi-v4/notification_bg_normal.9.png"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable-hdpi-v4_ic_priority_high_white_24dp.png.flat",
-        "source": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/packaged_res/release/drawable-hdpi-v4/ic_priority_high_white_24dp.png"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/Users/dwh/Desktop/coding/doorapp/doorapp/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable-ldpi-v4_ic_priority_high_white_24dp.png.flat",
-        "source": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/packaged_res/release/drawable-ldpi-v4/ic_priority_high_white_24dp.png"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable_notification_icon_background.xml.flat",
-        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable/notification_icon_background.xml"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable-ldpi-v4_ic_done_white_24dp.png.flat",
-        "source": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/packaged_res/release/drawable-ldpi-v4/ic_done_white_24dp.png"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable-hdpi-v4_ic_done_white_24dp.png.flat",
-        "source": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/packaged_res/release/drawable-hdpi-v4/ic_done_white_24dp.png"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/layout_go_to_setting.xml.flat",
-        "source": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/packaged_res/release/layout/go_to_setting.xml"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable-xxxhdpi-v4_ic_priority_high_white_24dp.png.flat",
-        "source": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/packaged_res/release/drawable-xxxhdpi-v4/ic_priority_high_white_24dp.png"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable_toast_bg.xml.flat",
-        "source": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/fluttertoast/intermediates/packaged_res/release/drawable/toast_bg.xml"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/Users/dwh/Desktop/coding/doorapp/doorapp/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/layout_notification_template_icon_group.xml.flat",
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/layout_notification_template_icon_group.xml.flat",
         "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/layout/notification_template_icon_group.xml"
     },
     {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable-anydpi-v21_ic_done_white_24dp.xml.flat",
-        "source": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/packaged_res/release/drawable-anydpi-v21/ic_done_white_24dp.xml"
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable-xxxhdpi-v4_ic_done_white_24dp.png.flat",
+        "source": "/Users/dwh/Desktop/coding/staridea/build/local_auth/intermediates/packaged_res/release/drawable-xxxhdpi-v4/ic_done_white_24dp.png"
     },
     {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/Users/dwh/Desktop/coding/doorapp/doorapp/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable_launch_background.xml.flat",
-        "source": "/Users/dwh/Desktop/coding/doorapp/doorapp/android/app/src/main/res/drawable/launch_background.xml"
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_ic_done_white_24dp.png.flat",
+        "source": "/Users/dwh/Desktop/coding/staridea/build/local_auth/intermediates/packaged_res/release/drawable-xhdpi-v4/ic_done_white_24dp.png"
     },
     {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/layout_toast_custom.xml.flat",
-        "source": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/fluttertoast/intermediates/packaged_res/release/layout/toast_custom.xml"
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable-xxxhdpi-v4_ic_fingerprint_white_24dp.png.flat",
+        "source": "/Users/dwh/Desktop/coding/staridea/build/local_auth/intermediates/packaged_res/release/drawable-xxxhdpi-v4/ic_fingerprint_white_24dp.png"
     },
     {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable_fingerprint_initial_icon.xml.flat",
-        "source": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/packaged_res/release/drawable/fingerprint_initial_icon.xml"
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_ic_done_white_24dp.png.flat",
-        "source": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/packaged_res/release/drawable-xhdpi-v4/ic_done_white_24dp.png"
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable-ldpi-v4_ic_priority_high_white_24dp.png.flat",
+        "source": "/Users/dwh/Desktop/coding/staridea/build/local_auth/intermediates/packaged_res/release/drawable-ldpi-v4/ic_priority_high_white_24dp.png"
     },
     {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/Users/dwh/Desktop/coding/doorapp/doorapp/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/mipmap-mdpi_logo.png.flat",
+        "source": "/Users/dwh/Desktop/coding/staridea/android/app/src/main/res/mipmap-mdpi/logo.png"
     },
     {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/res/merged/release/drawable-hdpi-v4_ic_fingerprint_white_24dp.png.flat",
-        "source": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/packaged_res/release/drawable-hdpi-v4/ic_fingerprint_white_24dp.png"
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/dwh/Desktop/coding/staridea/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable-xxxhdpi-v4_ic_priority_high_white_24dp.png.flat",
+        "source": "/Users/dwh/Desktop/coding/staridea/build/local_auth/intermediates/packaged_res/release/drawable-xxxhdpi-v4/ic_priority_high_white_24dp.png"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable-xxhdpi-v4_ic_done_white_24dp.png.flat",
+        "source": "/Users/dwh/Desktop/coding/staridea/build/local_auth/intermediates/packaged_res/release/drawable-xxhdpi-v4/ic_done_white_24dp.png"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable_launch_background.xml.flat",
+        "source": "/Users/dwh/Desktop/coding/staridea/android/app/src/main/res/drawable/launch_background.xml"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/layout_toast_custom.xml.flat",
+        "source": "/Users/dwh/Desktop/coding/staridea/build/fluttertoast/intermediates/packaged_res/release/layout/toast_custom.xml"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/dwh/Desktop/coding/staridea/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable-anydpi-v21_ic_done_white_24dp.xml.flat",
+        "source": "/Users/dwh/Desktop/coding/staridea/build/local_auth/intermediates/packaged_res/release/drawable-anydpi-v21/ic_done_white_24dp.xml"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/layout_go_to_setting.xml.flat",
+        "source": "/Users/dwh/Desktop/coding/staridea/build/local_auth/intermediates/packaged_res/release/layout/go_to_setting.xml"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/dwh/Desktop/coding/staridea/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_ic_priority_high_white_24dp.png.flat",
+        "source": "/Users/dwh/Desktop/coding/staridea/build/local_auth/intermediates/packaged_res/release/drawable-xhdpi-v4/ic_priority_high_white_24dp.png"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable-xxhdpi-v4_ic_priority_high_white_24dp.png.flat",
+        "source": "/Users/dwh/Desktop/coding/staridea/build/local_auth/intermediates/packaged_res/release/drawable-xxhdpi-v4/ic_priority_high_white_24dp.png"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable-mdpi-v4_ic_done_white_24dp.png.flat",
+        "source": "/Users/dwh/Desktop/coding/staridea/build/local_auth/intermediates/packaged_res/release/drawable-mdpi-v4/ic_done_white_24dp.png"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable-hdpi-v4_ic_priority_high_white_24dp.png.flat",
+        "source": "/Users/dwh/Desktop/coding/staridea/build/local_auth/intermediates/packaged_res/release/drawable-hdpi-v4/ic_priority_high_white_24dp.png"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/layout_scan_fp.xml.flat",
+        "source": "/Users/dwh/Desktop/coding/staridea/build/local_auth/intermediates/packaged_res/release/layout/scan_fp.xml"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable_notification_bg_low.xml.flat",
+        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable_toast_bg.xml.flat",
+        "source": "/Users/dwh/Desktop/coding/staridea/build/fluttertoast/intermediates/packaged_res/release/drawable/toast_bg.xml"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/layout_custom_dialog.xml.flat",
+        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable_fingerprint_warning_icon.xml.flat",
+        "source": "/Users/dwh/Desktop/coding/staridea/build/local_auth/intermediates/packaged_res/release/drawable/fingerprint_warning_icon.xml"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable-xxhdpi-v4_ic_fingerprint_white_24dp.png.flat",
+        "source": "/Users/dwh/Desktop/coding/staridea/build/local_auth/intermediates/packaged_res/release/drawable-xxhdpi-v4/ic_fingerprint_white_24dp.png"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/layout_notification_template_part_time.xml.flat",
+        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable-hdpi-v4_ic_done_white_24dp.png.flat",
+        "source": "/Users/dwh/Desktop/coding/staridea/build/local_auth/intermediates/packaged_res/release/drawable-hdpi-v4/ic_done_white_24dp.png"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable-ldpi-v4_ic_done_white_24dp.png.flat",
+        "source": "/Users/dwh/Desktop/coding/staridea/build/local_auth/intermediates/packaged_res/release/drawable-ldpi-v4/ic_done_white_24dp.png"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/layout-v16_notification_template_custom_big.xml.flat",
+        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable-anydpi-v21_ic_priority_high_white_24dp.xml.flat",
+        "source": "/Users/dwh/Desktop/coding/staridea/build/local_auth/intermediates/packaged_res/release/drawable-anydpi-v21/ic_priority_high_white_24dp.xml"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/layout_notification_action_tombstone.xml.flat",
+        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/dwh/Desktop/coding/staridea/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable_notification_tile_bg.xml.flat",
+        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/mipmap-hdpi_logo.png.flat",
+        "source": "/Users/dwh/Desktop/coding/staridea/android/app/src/main/res/mipmap-hdpi/logo.png"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable_fingerprint_success_icon.xml.flat",
+        "source": "/Users/dwh/Desktop/coding/staridea/build/local_auth/intermediates/packaged_res/release/drawable/fingerprint_success_icon.xml"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable-v21_notification_action_background.xml.flat",
+        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable_fingerprint_initial_icon.xml.flat",
+        "source": "/Users/dwh/Desktop/coding/staridea/build/local_auth/intermediates/packaged_res/release/drawable/fingerprint_initial_icon.xml"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable-ldpi-v4_ic_fingerprint_white_24dp.png.flat",
+        "source": "/Users/dwh/Desktop/coding/staridea/build/local_auth/intermediates/packaged_res/release/drawable-ldpi-v4/ic_fingerprint_white_24dp.png"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable-mdpi-v4_ic_fingerprint_white_24dp.png.flat",
+        "source": "/Users/dwh/Desktop/coding/staridea/build/local_auth/intermediates/packaged_res/release/drawable-mdpi-v4/ic_fingerprint_white_24dp.png"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable-mdpi-v4_ic_priority_high_white_24dp.png.flat",
+        "source": "/Users/dwh/Desktop/coding/staridea/build/local_auth/intermediates/packaged_res/release/drawable-mdpi-v4/ic_priority_high_white_24dp.png"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable_notification_icon_background.xml.flat",
+        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable-hdpi-v4_ic_fingerprint_white_24dp.png.flat",
+        "source": "/Users/dwh/Desktop/coding/staridea/build/local_auth/intermediates/packaged_res/release/drawable-hdpi-v4/ic_fingerprint_white_24dp.png"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/layout_notification_action.xml.flat",
+        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_ic_fingerprint_white_24dp.png.flat",
+        "source": "/Users/dwh/Desktop/coding/staridea/build/local_auth/intermediates/packaged_res/release/drawable-xhdpi-v4/ic_fingerprint_white_24dp.png"
     }
 ]

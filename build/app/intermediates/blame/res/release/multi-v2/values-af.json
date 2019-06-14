@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-af/values-af.xml",
+            "outputFile": "/Users/dwh/Desktop/coding/staridea/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-af/values-af.xml",
             "map": [
                 {
                     "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/values-af/values-af.xml",

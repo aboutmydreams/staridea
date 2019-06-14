@@ -1,22 +1,22 @@
 [
     {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
-        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
-        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
-    },
-    {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_low_normal.9.png",
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/local_auth/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_low_normal.9.png",
         "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
     },
     {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_normal.9.png",
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/local_auth/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_normal.9.png",
         "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable-hdpi-v4/notification_bg_normal.9.png"
     },
     {
-        "merged": "/Users/dwh/Desktop/coding/doorapp/doorapp/build/local_auth/intermediates/res/merged/release/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/local_auth/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/local_auth/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/dwh/Desktop/coding/staridea/build/local_auth/intermediates/res/merged/release/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
         "source": "/Users/dwh/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha03.aar/82a9eff65445b27beecb7f979dc1eaff/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
     }
 ]

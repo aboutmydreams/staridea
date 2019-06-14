@@ -8,7 +8,7 @@ import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:dio/dio.dart';
 
-import 'talkdetail.dart';
+import 'talkdetail1.dart';
 
 import '../data/nightdata.dart';
 
@@ -107,7 +107,7 @@ class SkylistState extends State<Skylist> {
         GestureDetector(
           onTap: () {
             Navigator.of(context).push(MaterialPageRoute(builder: (_) {
-              // return DetailShow(topic: idea);
+              return DetailShow1(topic: idea);
             }));
           },
           onDoubleTap: () {
